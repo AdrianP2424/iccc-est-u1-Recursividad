@@ -1,0 +1,22 @@
+public class App {
+    public static  void main(String[] args) throws Exception {
+        Ejercicios ejercicios = new Ejercicios();
+        /* 
+        System.out.println("Ejercicio 1");
+        
+        int rest1 = ejercicios.sumaConcecuitivos(5);{
+            System.out.println(rest1 );
+        
+        int  rest2= ejercicios.sumaConcecuitivosPasos(5);{
+            System.out.println(rest2);
+        }
+         */
+        System.out.println("Ejercicio 2");
+        int  rest3= ejercicios.getPotencia(2,5);{
+            System.out.println(rest3);
+        }
+
+
+    }
+
+}
