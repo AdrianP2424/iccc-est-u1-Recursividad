@@ -9,4 +9,5 @@ Se creó una clase en Java llamada Ejercicios que implementa varios métodos rec
 
 
 ## Imagen:
-![Descripcion de la captura](assets/image.png)
+
+![alt text](lib/image.png)
